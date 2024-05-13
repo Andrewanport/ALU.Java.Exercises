@@ -12,7 +12,5 @@ public class A011 {
 
         System.out.println("Preço final : " + ValorFinal);
 
-
-
     }
 }
